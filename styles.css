@@ -30,3 +30,9 @@ h3, p {
     background-color: #ffffff;
     height: 300px;
 }
+
+@media only screen and (max-width: 500px) {
+    .color-container {
+        height: 50px;
+    }
+}
