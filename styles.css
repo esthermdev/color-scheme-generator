@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+h3, p {
+    padding: 5px;
+    text-align: center;
+}
+
+.color-buttons {
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.buttons {
+    padding: 10px;
+    margin: 20px;
+}
+
+.container {
+    height: 800px;
+}
+
+.color-container {
+    margin-top: 10px;
+    border-radius: 3%;
+    border: 1px solid black;
+    background-color: #ffffff;
+    height: 300px;
+}
